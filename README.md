@@ -3,6 +3,7 @@
 Χατζηλιόντος Χριστόδουλος (ΑΠΘ, ΑΤΜ, ΑΜΕ 6289, chatzilc@topo. auth. gr) 
 
 [Περίληψη](0-perilipsi.md)
+
 [Επαναληπτική επίλυση με μία παράμετρο](2-epanaliptiki-epilisi-mias-parametrou.md)
 
 
