@@ -1,0 +1,1 @@
+# EGSA87_2_HATT-reverse-polynomial-12-coefficients
