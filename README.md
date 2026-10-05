@@ -4,6 +4,8 @@
 
 [Περίληψη](0-perilipsi.md)
 
+[1. Εισαγωγή](1-eisagosi.md)
+
 [2.0. Επαναληπτική επίλυση με μία παράμετρο](2-0-epanaliptiki-epilisi-mias-parametrou.md)
 
 [2.1. Ο ευθύς υπολογισμός (x,y) -> (E,N)](2-1-efthis-ypologismos.md)
