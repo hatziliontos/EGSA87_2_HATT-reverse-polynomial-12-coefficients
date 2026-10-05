@@ -4,7 +4,7 @@
 
 [Περίληψη](0-perilipsi.md)
 
-[1. Εισαγωγή](1-eisagosi.md)
+[1. Εισαγωγή](1-eisagogi.md)
 
 [2.0. Επαναληπτική επίλυση με μία παράμετρο](2-0-epanaliptiki-epilisi-mias-parametrou.md)
 
