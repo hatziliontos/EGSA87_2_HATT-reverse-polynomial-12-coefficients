@@ -4,7 +4,7 @@
 
 **1.** Demetrius Papademetriou, https://www.themost-sa.gr/proj/zip.php (2024) 
 
-**2.** George Ouzounoudis (https://survo.gr), https://github.com/georgeouzou/survgrt (2024) 
+**2.** George Ouzounoudis (https://survo.gr), https://github.com/georgeouzou/survgr/issues/31 (2024) 
 
 **3.** ΟΚΧΕ-ΓΥΣ, 1995, Πολυωνυμικοί συντελεστές μετατροπής HATT σε ΕΓΣΑ87 
 
