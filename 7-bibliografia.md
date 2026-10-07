@@ -1,8 +1,10 @@
+[<-Περιεχόμενα](README.md)
+
 ## **Βιβλιογραφία** 
 
-**1.** Demetrius Papademetriou, htps://www.themost -sa.gr/proj/zip.php (2024) 
+**1.** Demetrius Papademetriou, https://www.themost-sa.gr/proj/zip.php (2024) 
 
-**2.** George Ouzounoudis (htps://survo.gr/t <u>), htps://github.com/georgeouzou/survgrt</u> (2024) 
+**2.** George Ouzounoudis (https://survo.gr), https://github.com/georgeouzou/survgrt (2024) 
 
 **3.** ΟΚΧΕ-ΓΥΣ, 1995, Πολυωνυμικοί συντελεστές μετατροπής HATT σε ΕΓΣΑ87 
 
