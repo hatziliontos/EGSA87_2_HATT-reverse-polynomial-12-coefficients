@@ -102,9 +102,6 @@ WorksheetFunction.Transpose(EN(E_, N_)))(1)), 2)
     res(10) = less1y
     For i = 1 To 11
         For J = 1 To 11
-```
-
-```
             If (res(1) = dx(i, J)) Then
                 res(11) = xh(i)
                 res(12) = yh(J)
@@ -124,6 +121,12 @@ WorksheetFunction.Transpose(EN(E_, N_)))(1)), 2)
         Next J
     Next i
     in_ac = res
+End Function
+
+Function xy(x, y)
+    Dim vec(1 To 6) As Double
+    vec(1) = 1: vec(2) = x: vec(3) = y: vec(4) = x * x: vec(5) = y * y: vec(6) = x * y
+    xy = vec
 End Function
 ```
 
